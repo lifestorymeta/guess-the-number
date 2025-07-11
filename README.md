@@ -6,11 +6,8 @@ This is a fun Python terminal game where the computer picks a number between 1 a
 
 ## 💡 How to Play
 
-1. Run the game using Python:
+1. **Run the `guess_the_number.py` file to start the game.**
 
-```bash
-python guess_the_number.py
-```
 2. Enter your guesses when prompted.
    
 3. The game will give hints:
